@@ -116,8 +116,8 @@ while True:
             
             ###probability of prediction###
         y_probability = model.predict_proba(x_test)
-            #print(y_probability)
-        print(y_predict)
+        print("prob",y_probability)
+        print("category",y_predict)
             ###quit the loop###
             #if y_predict == 7:
              #   y_predict7 = float(y_predict)
@@ -148,7 +148,7 @@ while True:
             isBreak=False
             for y_pro in y_probability:
                 new_train = []
-                if all(y_pro < 0.5):
+                if all(y_pro < 0.3):
                     unknown = ["Sorry, I didn't understand"]
                     print(''.join(unknown))
                     speak.Speak(unknown)

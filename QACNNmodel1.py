@@ -4,7 +4,7 @@ Created on Mon Dec 16 20:01:02 2019
 
 @author: umd1231
 """
-
+import random
 import pandas as pd
 import numpy as np
 import nltk
@@ -68,9 +68,17 @@ one_hot_label = np.zeros(shape = (train_labels.shape[0], classes))
 one_hot_label[np.arange(0, train_labels.shape[0]), train_labels] = 1
 input_label = one_hot_label
 #print('input_label',input_label)
+zippedDataAndLabels=list(zip(input_data,input_label))
+# print(zippedDataAndLabels)
+random.shuffle(zippedDataAndLabels)
 
+input_data,input_label=zip(*zippedDataAndLabels)
+input_data=np.array(input_data)
+input_label=np.array(input_label)
+print(input_data)
+print(input_label)
 ###split train set and validation set###
-train_size = 36
+train_size = 200
 x_train = input_data[:train_size]
 x_val = input_data[train_size:]
 y_train = input_label[:train_size]
