@@ -54,6 +54,7 @@ speak.Speak("Hello, how can I help you")
 #r.dynamic_energy_threshold = True
 #r.dynamic_energy_adjustment_damping = 0.15
 #r.dynamic_energy_adjustment_ratio = 1.2
+model=load_model('QACNNmodel1.h5')
 while True:
     recog_value = 0
     recog = []
@@ -97,7 +98,7 @@ while True:
         # print(dic)
             ###one hot embeding###
             ###creates 3d numpyarray with zeros using three dimensions###
-        max_length = 10
+        max_length = 12
         x_test = np.zeros(shape=(len(test_data),
                                 max(dic.values()) + 1,
                                 max_length))
@@ -108,8 +109,7 @@ while True:
                 index = dic.get(word)
                 x_test[i,index,j] = 1
             ###load the model###      
-        model=load_model('QACNNmodel1.h5')
-            
+
             ###predict class###
         y_predict = model.predict_classes(x_test)
             #print(y_predict)
