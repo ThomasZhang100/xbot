@@ -1,0 +1,280 @@
+Label,Question
+0,Who are you?
+0,What are you?
+0,Who is this?
+0,What is this?
+0,What are this?
+1,Where are you?
+1,Where do you live?
+1,Where are you currently?
+1,Where are you from?
+1,Where are you right now?
+1,Where are you now?
+1,Where do you live now?
+1,Where do you live currently?
+2,What is your name?
+2,Do you have a name?
+2,What are you called?
+2,What's your name?
+2,How are you called?
+2,Can you say your name?
+2,Tell me your name.
+3,Why are you here?
+3,What is your purpose?
+3,What is your purpose here?
+3,What's your job?
+3,What's your purpose?
+3,What's your purpose here?
+3,What is your job?
+4,How old are you?
+4,What is your age?
+4,How many years old are you?
+4,When were you made?
+4,How long have you existed?
+4,How many years have you existed?
+5,Where are you from?
+5,Where were you from?
+5,Where were you born?
+5,What is your birthplace?
+5,What place are you from?
+5,What country are you from?
+5,What state are you from?
+5,Where did you come from?
+6,What is your favorite color?
+6,What's your favorite color?
+6,What color do you like the most?
+6,Which color do you like the most?
+6,What color do you like?
+6,What color do you like best?
+6,What color is the best?
+7,Who made you?
+7,Who programmed you?
+7,Who designed you?
+7,Who are your creators?
+7,Who animated you?
+7,Who is your creator?
+7,What people made you? 
+7,Who created you?
+8,Do you have any friends?
+8,Are you lonely?
+8,Do you feel lonely?
+8,Are you alone?
+8,Who are you friends?
+8,Do you even have friends?
+8,Do you even have any friends?
+8,How many friends do you have?
+9,What do you like to do?
+9,What do you do in your free time?
+9,What do you like to do in your free time?
+9,What do you do when you are bored?
+9,What do you like to do when you are bored?
+9,What do you enjoy?
+9,What do you enjoy doing?
+9,What do you enjoy doing in your free time?
+9,What do you like to do when you have nothing to do?
+9,What do you enjoy doing in your spare time?
+9,What do you enjoy doing when you are bored?
+9,What do you do in your spare time?
+9,Tell me what you like to do.
+9,Do you have any hobbies?
+9,What is your favorite thing to do?
+9,What are your hobbies?
+9,What are your favorite things to do?
+10,What is your favorite song?
+10,What's your favorite song?
+10,What are your favorite songs?
+10,Tell me your favorite song.
+10,Tell me your favorite songs.
+10,Do you have a favorite song?
+10,What song do you like the most?
+10,What song is your favorite?
+10,Do you listen to any songs?
+10,Do you listen to music?
+10,What music do you like?
+10,What music do you enjoy?
+11,Are you hungry?
+11,Are you hungry right now?
+11,Can you feel hungry?
+11,Can you get hungry?
+11,Do you get hungry?
+11,Do you feel hungry?
+11,Do you feel hunger?
+11,What do you want to eat?
+11,Do you like to eat anything?
+11,What do you like to eat?
+12,Can you talk?
+12,Can you even talk?
+12,How are you talking?
+12,Do you talk?
+13,What are you made of?
+13,What materials are you made of?
+13,How were you built?
+13,How were you made?
+13,How did they build you?
+13,What stuff are you made of?
+13,What are you made from?
+14,Do you have a favorite animal?
+14,What is your favorite animal?
+14,Do you like animals?
+14,What's your favorite animal?
+14,What type of animal do you like?
+14,What are your favorite animals?
+14,What animal do you like the most?
+14,What animals do you like?
+14,What animal do you like?
+15,What's your favorite place to visit?
+15,What is your favorite place?
+15,What's your favorite place?
+15,What place do you like the most?
+15,Where do you want to go?
+15,Where would you want to go on vacation?
+15,Where do you like to go?
+15,Where do you like to go on vacation?
+16,Do you have any siblings?
+16,Do you have a brother or sister?
+16,Do you have a brother?
+16,Do you have an older brother?
+16,Do you have a younger brother?
+16,Do you have a sister?
+16,Do you have a younger sister?
+16,Do you have an older sister?
+16,Are you an only child?
+17,What is your favorite sport?
+17,What's your favorite sport?
+17,What sport do you like to play?
+17,What sport do you enjoy playing?
+17,Do you have a favorite sport?
+17,What sport do you play?
+17,What sports do you play?
+17,Do you exercise?
+18,How are you?
+18,How are you doing?
+18,How's life?
+18,How is life?
+18,What's up?
+18,How do you feel?
+18,How are you feeling?
+18,Are you okay?
+19,Which car do you want to buy?
+19,Do you have a favorite car?
+19,What's your favorite car?
+19,Would you like a car?
+19,Do you like cars?
+20,What gender are you?
+20,What sex are you?
+20,Are you a guy or a girl?
+20,Are you a guy?
+20,Are you a girl?
+20,Are you a boy?
+20,Are you a boy or girl?
+20,Are you a man or a woman?
+20,Are you a man?
+20,Are you a woman?
+20,What is your sexual orientation?
+20,What is your gender?
+20,What's your gender?
+21,Will you destroy the world?
+21,Will you kill all humans?
+21,Will you destroy us?
+21,Will you take over the world?
+21,Can you take over the world?
+21,Will robots destroy the world?
+21,Will robots rule the world?
+21,Would you destroy the world?
+22,What is the meaning of life?
+22,Do you know the meaning of life?
+22,Can you tell me the meaning of life?
+22,What is the meaning of life please?
+22,Do you know the meaning of life please?
+22,Can you tell me the meaning of life please?
+23,Are you hungry?
+23,Do you need food?
+23,Are you very hungry?
+23,Are you extremely hungry?
+23,Do you feel hungry?
+24,Do you like pizza?
+25,Do you like ice cream?
+26,I'm bored.
+26,I am bored.
+26,boring.
+26,bored.
+26,I feel so bored.
+26,I'm so bored.
+26,I am so bored.
+27,What is good American food?
+27,What is delicious american food?
+27,What food do americans make? 
+27,Are burgers American?
+27,Are burgers American food?
+27,Is a burger American?
+27,Is a burger American food?
+27,Do burgers count as American food?
+27,Are chicken nuggets American?
+27,Are chicken nuggets American food?
+27,Is a chicken nugget American?
+27,Is a chicken nugget American food?
+27,Do chicken nuggets count as American food?
+27,Are fries American?
+27,Are fries American food?
+27,Is a fry American?
+27,Is a fry American food?
+27,Do fries count as American food?
+27,Are hot dogs American?
+27,Are hot dogs American food?
+27,Is a hot dog American?
+27,Is a hot dog American food?
+27,Do hot dogs count as American food?
+27,What is some American food?
+27,What is an example of American food?
+27,What is a example of American food?
+27,Can you tell me about American food?
+27,Tell me about American food.
+28,Tell me a joke.
+28,Can you say a joke?
+28,Say a joke.
+28,Tell a joke.
+28,Can you tell me a joke?
+28,I need humor.
+29,I am hungry.
+29,I’m hungry.
+29,I am starving.
+29,I’m starving.
+29,So hungry.
+29,Hungry.
+29,Am hungry.
+29,Am starving.
+29,Super hungry.
+29,I am super hungry.
+29,I am very hungry.
+29,I am so hungry.
+29,I am very very hungry.
+29,I need food.
+29,I am extremely hungry.
+29,I am insanely hungry.
+29,Please give me food.
+29,I want food.
+29,Give me food.
+29,Give me some food.
+30,Do you play video games?
+30,Do you play games?
+30,What games do you play?
+30,What video games do you play?
+30,What games do you like to play?
+30,What games do you enjoy playing?
+30,What games do you like the most?
+30,What games do you like?
+30,What game do you like?
+30,What game do you play?
+30,What is your favorite game?
+30,What are you favorite games?
+30,Tell me your favorite game.
+30,What's your favorite game?
+30,What's your favorite games?
+30,What are your games?
+30,Do you like video games?
+30,Do you like to play video games?
+30,What is your favorite video game?
+30,What are your favorite video games?
+30,What video games do you like?
+30,What video game do you like?
+30,What video game do you play?
